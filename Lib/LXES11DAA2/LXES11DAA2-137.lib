@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LXES11DAA2-137
+#/540766/326545/2.49/6/4/Filter
+DEF LXES11DAA2-137 FL 0 30 Y Y 1 F N
+F0 "FL" 650 500 50 H V L CNN
+F1 "LXES11DAA2-137" 650 400 50 H V L CNN
+F2 "LXES11D" 650 300 50 H I L CNN
+F3 "" 650 200 50 H I L CNN
+F4 "ESD Suppressors 1 Channel Imp=35ohms ESD+Common Mode Fltr" 650 100 50 H I L CNN "Description"
+F5 "" 650 0 50 H I L CNN "Height"
+F6 "" 650 -100 50 H I L CNN "RS Part Number"
+F7 "" 650 -200 50 H I L CNN "RS Price/Stock"
+F8 "Murata Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F9 "LXES11DAA2-137" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 400 500 200 D 50 50 0 0 P
+X 2 2 300 500 200 D 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+X 4 4 300 -500 200 U 50 50 0 0 P
+X 5 5 400 -500 200 U 50 50 0 0 P
+X 6 6 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 300 600 300 600 -300 200 -300 200 300 N
+ENDDRAW
+ENDDEF
+#
+#End Library
