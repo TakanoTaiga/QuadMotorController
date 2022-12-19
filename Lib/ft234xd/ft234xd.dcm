@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ft234xd
-D USB to serial UART
-K
-F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf
-$ENDCMP
-#
-#End Doc Library

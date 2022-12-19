@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TPN1R603PL,L1Q
-D Trans MOSFET N-CH Si 30V 188A 8-Pin TSON Advance T/R
-K
-F https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/12v-300v-mosfets/detail.TPN1R603PL.html
-$ENDCMP
-#
-#End Doc Library
