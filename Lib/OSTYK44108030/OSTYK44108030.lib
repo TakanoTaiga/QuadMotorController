@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model OSTYK44108030
+#/7801405/326545/2.49/8/3/Connector
+DEF OSTYK44108030 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "OSTYK44108030" 650 200 50 H V L CNN
+F2 "SHDR8W120P0X950_1X8_7750X1780X1420P" 650 100 50 H I L CNN
+F3 "https://www.on-shore.com/wp-content/uploads/OSTYK441XX030.pdf" 650 0 50 H I L CNN
+F4 "Conn Terminal Block 8 POS 9.5mm Screw ST Thru-Hole 30A" 650 -100 50 H I L CNN "Description"
+F5 "14.2" 650 -200 50 H I L CNN "Height"
+F6 "" 650 -300 50 H I L CNN "RS Part Number"
+F7 "" 650 -400 50 H I L CNN "RS Price/Stock"
+F8 "On-Shore Technology, Inc" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "OSTYK44108030" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

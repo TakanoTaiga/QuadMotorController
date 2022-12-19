@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LXES11DAA2-137
+D ESD Suppressors 1 Channel Imp=35ohms ESD+Common Mode Fltr
+K
+F 
+$ENDCMP
+#
+#End Doc Library

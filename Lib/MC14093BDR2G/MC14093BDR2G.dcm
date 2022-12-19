@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC14093BDR2G
+D NAND Gate Quad 2-Input CMOS SOIC14 MC14093BDR2G, Logic Gate Quad 2 Input NAND, 4.2mA 3  18 V 14-Pin SOIC
+K
+F http://uk.rs-online.com/web/p/products/6881530P
+$ENDCMP
+#
+#End Doc Library

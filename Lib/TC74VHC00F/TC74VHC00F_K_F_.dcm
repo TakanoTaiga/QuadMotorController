@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC74VHC00F_K,F_
+D Toshiba TC74VHC00F(K,F), Quad 2-Input NAND Logic Gate, 14-Pin SOP
+K
+F 
+$ENDCMP
+#
+#End Doc Library
